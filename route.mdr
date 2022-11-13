@@ -1,0 +1,1048 @@
+:::tracker{species="Klefki" generation=6 baseStats="[[57, 80, 91, 80, 87, 75]]" hpIV=31 attackIV=31 defenseIV=31 spAttackIV=31 spDefenseIV=31 speedIV=31 nature=Modest type="Fairy"}
+7:
+:::
+
+- **THINGS TO DOUBLE CHECK**
+  - **Set your console date and time so it's the morning of 15th February 2001.**
+  - **Chespin should be female (helps with Wallace and maybe Delcatty in Norman's Gym).**
+  - **Mudkip is in PC at start of game to avoid double battle.**
+
+Go to the forest. 
+
+:::::::trainer[Team Aqua Grunt]
+  :::::pokemon[Poochyena]
+    - Fairy Wind
+    - Tackle
+  :::::
+:::::::
+
+:info[**Free heal**]{color=pink}
+
+Get Balm Mushroom + Ether.
+
+Head to Rustboro City Gym and skip every trainer.
+
+::damage[Geodude's Rock Tomb]{source="Klefki" offensive=false movePower=60 level=8 evs=1 opponentLevel=12 stab=true opponentStat=24 effectiveness=0.5}
+
+:::::trainer[Leader Roxanne]
+  :::pokemon[Geodude]
+    - Fairy Wind x3
+    ::damage[Geodude' Tackle]{source="Klefki" offensive=false movePower=50 level=8 evs=1 opponentLevel=12 opponentStat=24 effectiveness=0.5}
+  :::
+  :::pokemon[Nosepass]
+    - Fairy Wind like 6 times:info[Heal as needed]{color=gray}
+    - Astonish to Finish Off
+
+    ::damage[Nosepass' Tackle]{source="Klefki" offensive=false movePower=50 level=10 evs=2 opponentLevel=14 opponentStat=17 effectiveness=0.5}
+  :::
+:::::
+
+Talk to the scientist after the cutscene, then head east.
+
+Go through the bottom patch of grass and grab the Repel.
+
+Talk to the sailor before Rusturf Tunnel.
+
+Immediately after entering Rusturf Tunnel:
+  - Repel
+  - Potion (if health less than 11)
+  - Turn off Experience Share
+
+:::::::trainer[Team Aqua Grunt]
+  :::::pokemon[Poochyena]
+    - Fairy Wind
+    - Tackle
+  :::::
+:::::::
+
+Go back to Rustboro and head to the Devon Corporation. Watch the cutscenes.
+
+Head to Briney's and go to Dewford.
+
+Stop by PC, heal Chespin and withdraw Mudkip.
+
+Head to the gym.
+
+
+:::::trainer[Battle Girl Laura]
+  :::pokemon[Meditite]
+    - Fairy Wind x2
+    - Astonish as needed
+    - Do no teach Metal Sound
+  :::
+:::::
+
+
+**Heal to full!**
+
+:::::::trainer[Black Belt Hideki]
+  :::::pokemon[Machop]
+    - Fairy Wind x2
+
+    ::damage[Machop's Low Sweep]{source="Chespin" offensive=false movePower=65 level=14 evs=2 opponentLevel=13 opponentStat=25 stab=true}
+  :::::
+:::::::
+
+Heal to fullish.
+
+:::::trainer[Battle Girl Tessa]
+  :::pokemon[Meditite]
+    - Fairy Wind x2
+  :::
+  :::pokemon[Machop]
+    - Fairy Wind x2
+  :::
+:::::
+
+Heal to fullish.
+
+:::::trainer[Leader Brawly]
+  :::pokemon[Machop]
+    - Tackle
+    - Fairy Wind
+  :::
+  :::pokemon[Makuhita]
+    - Tackle
+    - Fairy Wind
+  :::
+:::::
+
+After exiting the gym, head north to Granite Cave.
+
+- Heal if yellow.
+
+After talking to Steven, head back to the dock and talk to Mr. Briney. Sail to Slateport (press up once).
+
+Go to the north-west of the beach and grab the PP Up.
+
+Head to Stern's Shipyard and watch the cutscene.
+
+Head to the museum.
+
+:::::trainer[Team Aqua Grunt]
+  :::pokemon[Carvanha]
+    - Fairy Wind
+    - Do not teach Spikes
+  :::
+:::::
+
+
+:::::trainer[Team Aqua Grunt]{info="Should have about 6 Vine Whips after" infoColor=gray}
+  :::pokemon[Zubat]
+    - Tackle x3
+    ::damage[Zubat's Wing Attack]{source="Chespin" offensive=false movePower=60 level=16 evs=2 opponentLevel=14 opponentStat=17 stab=true effectiveness=2}
+  :::
+  :::pokemon[Caravanha]{info="Heal whenever you are in Aqua Jet range" infoColor=gray}
+    - Fairy Wind
+    ::damage[Carvanha's Aqua Jet]{source="Chespin" offensive=false evolution=1 movePower=40 level=16 evs=5 opponentLevel=14 opponentStat=27 stab=true effectiveness=0.5}
+  :::
+:::::
+
+### Slateport Shopping
+> #### Sell (Top)
+> - ALL Poké Balls
+> - Balm Mushroom
+> - Great Ball
+> - PP Up
+> #### Buy (Top)
+> - 2 X Speed
+> - 6 X Attack (v)
+> - 1 X Defense (v)
+> - 1 X Accuracy (vvv)
+> - 2 X Sp. Def (>^)
+
+> #### Buy (Bottom)
+> - 4 Super Repels (^^)
+> - 4 Paralyze Heal (<v)
+> - 4 Super Potions (^^^^)
+
+Head north.
+
+:::::trainer[Poké Fan Isabel]{info="." infoColor=gray}
+  :::pokemon[Plusle]
+    - Fairy Wind x3 / x4
+  :::
+  :::pokemon[Minun]
+    - Fairy Wind x3 / x4
+    - Teach Draining Kiss over Fairy Lock (Slot 1)
+  :::
+:::::
+
+After beating Isabel:
+- Heal to full.
+- Heal if paralyzed.
+- Use a Super Repel.
+
+:::::::trainer[Brendan 2]
+  :::::pokemon[Slugma]
+    - X Spcecial Attack x3
+    - Draining Kiss
+    - Fairy Wind
+    ::damage[Slugma's Incinerate]{source="Chespin" evolution=1 offensive=false movePower=60 special=true level=17 evs=0 opponentLevel=19 stab=true opponentStat=34 effectiveness=2}
+  :::::
+  :::::pokemon[Grovyle]{info="Heal as needed" infoColor=gray}
+    - Fairy Wind x2
+    ::damage[Grovyle's Quick Attack]{source="Chespin" evolution=1 offensive=false movePower=40 level=20 evs=4 opponentLevel=20 opponentStat=35}
+    ::damage[Grovyle's Fury Cutter]{source="Chespin" evolution=1 offensive=false movePower=40 level=20 evs=4 effectiveness=2 opponentLevel=20 opponentStat=35}
+  :::::
+  :::::pokemon[Wailmer]
+    - Fairy Wind x2
+  :::::
+:::::::
+
+:info[**Free heal**]{color=pink}
+
+Optional: Get the hidden Revive before the next spinner.
+
+Get Leppa Berries from one bush before entering Mauville. Drop Repel and get the Mach Bike.
+
+### Mauville Shopping
+> #### Buy (Top):
+> - Bulldoze (>^^)
+
+After exiting the mart:
+- Register the Mach Bike.
+
+Exit menu and ride bike
+
+
+Head north to the gym.
+
+:::::trainer[Wally]
+  :::pokemon[Ralts]
+    - Astonish x2
+  :::
+:::::
+
+Puzzle (room 1): Blue switch, red switch.
+
+:::::trainer[Guitarist Kirk]
+  :::pokemon[Magnemite]
+     - Fairy Wind x10000
+  :::
+  :::pokemon[Electrike]
+    - Astonish
+    - Draining Kiss
+  :::
+:::::
+
+Puzzle (room 2): Top-right blue switch, red switch, top-right blue switch.
+
+:::::trainer[Youngster Ben]
+  :::pokemon[Electrike]
+    - Astonish
+    - Draining Kiss
+
+    If you don't need to Heal
+    - Fairy Wind x2
+  :::
+:::::
+
+:::::trainer[Guitarist Shawn]
+  :::pokemon[Voltorb]
+    - Fairy Wind x2
+  :::
+  :::pokemon[Voltorb]
+    - Fairy Wind
+    - Draining Kiss (try to get close to full heal at end of fight)
+  :::
+:::::
+
+:::::trainer[Leader Wattson]
+  :::pokemon[Magnemite]{info="Heal Paralyze after setup" infoColor=blue}
+    - Astonish
+    - X Special Attack x3
+    - Fairy Wind (DK if need to heal)
+  :::
+  :::pokemon[Voltorb]{info="Keep setting up on Voltorb if Volt Switch" infoColor=blue}
+    - Fairy Wind (DK if need to heal)
+    - If spamming charge, consider Astonish to avoid heal range
+  :::
+  :::pokemon[Magneton]
+    - Draining Kiss x2
+  :::
+:::::
+
+Exit the gym and head north. At the rocks:
+- Teach Rock Smash to Mudkip.
+- Use a Super Repel (keep applied until they run out).
+
+:info[**Free heal**]{color=pink}
+
+Head through the cave. After exiting, grab the Persim Berries from the middle bush above the trainer.
+
+:::::::trainer[Ace Trainer Wilton]
+  :::::pokemon[Electrike]
+    - Fairy Wind :info[_Use the X Attack here if not attempting the range on Bagon_ (not worth imo)]{color=gray}
+    - Draining Kiss
+  :::::
+  :::::pokemon[Makuhita]
+    - Draining Kiss
+    - If Whirlwind, Growl with Mudkip until death or Whirlwind again
+
+    ::damage[+1 Bulldoze vs Makuhita]{source="Chespin" evolution=1 movePower=60 stab=false level=24 evs=9 opponentStat=21 healthThreshold=63 otherPowerModifier=1.2 combatStages=1 theme=error}
+  :::::
+  :::::pokemon[Bagon]{info="Bulldoze x2 is a 37.5% Range" infoColor=blue}
+    - Fairy Wind
+  :::::
+:::::::
+
+:info[**Free heal**]{color=pink}
+
+:::::trainer[Youngster Neal]
+  :::pokemon[Trapinch]
+    - Astonish
+    - Draining Kiss
+  :::
+  :::pokemon[Electrike]
+    - Draining Kiss
+  :::
+:::::
+
+:::::trainer[Poké Maniac Steve]
+  :::pokemon[Aron]
+    - Astonish
+    - Draining Kiss x2
+  :::
+:::::
+
+Pick up the Comet Shard from the center of the first crater.
+
+Heal to full-ish.
+
+:info[**RECOMMEND SAVE**]{color=red}
+
+:::trainer[Team Aqua Double]
+  - Fairy Wind Mightyena until death
+  - Fairy Wind Carvanha
+  - (Potion if in Aqua Jet range) :info[_Use a Super Potion if Grovyle is not your ally_]{color=red}
+  - Tackle Grimer until death
+
+  ::damage[Carvanha's Aqua Jet (estimated)]{source="Klefki" offensive=false movePower=40 level=23 evs=0 opponentLevel=26 opponentStat=41 stab=true effectiveness=1}
+:::
+
+Say yes when Brendan asks if you want to go back to Mauville.
+
+Go to the mart.
+
+### Mauville Shopping
+> #### Sell (Bottom)
+> - Comet Shard
+> #### Buy (Bottom)
+> - 11 Hyper Potions (>^^)
+> - 6 Full Heals (>)
+> - 11 Max Repels (>^)
+
+Head north towards the cable car, and at the grass:
+- Use a Max Repel (keep applied until the end of the game).
+- Heal to full-ish.
+
+Enter the cable car building (watch out for the spinner in front!) and talk to the lady straight ahead.
+
+:::::trainer[Team Aqua Grunt]
+  :::pokemon[Poochyena]
+    - Fairy Wind
+  :::
+  :::pokemon[Grimer]
+    - Fairy Wind x3
+    - If disabled, Tackle x2-3
+  :::
+:::::
+
+:info[**RECOMMEND SAVE**]{color=red}
+:::::trainer[Aqua Admin Shelly]
+  :::pokemon[Grimer]
+    - X Attack
+    - Teach Foul Play over Astonish (Slot 4)
+  :::
+  :::pokemon[Carvanha]
+    - Fairy Wind
+  :::
+:::::
+
+- Equip a Persim Berry.
+- Heal to **full**.
+- If Mudkip still alive, swap Mudkip to front.
+
+
+:::::::trainer[Aqua Leader Archie]
+  :::::pokemon[Mightyena]{info="Heal Confusion using Full Heals and HP as needed" infoColor=gray}
+    - X Speed
+    - X Special Attack
+    - (X Attack x2 if you have not been Swagger'd)
+    - Draining Kiss
+  :::::
+  :::::pokemon[Sharpedo]
+    - Fairy Wind
+
+    ::damage[Sharpedo's Assurance]{source="Chespin" evolution=1 offensive=false movePower=60 level=25 evs=6 opponentLevel=27 opponentStat=69 stab=true effectiveness=0.5}
+  :::::
+  :::::pokemon[Golbat]
+    - Tackle x2
+
+    ::damage[+2 Rock Tomb vs Golbat]{source="Chespin" evolution=1 movePower=60 level=25 evs=15 opponentStat=40  healthThreshold=72 combatStages=2 effectiveness=2 theme=error}
+  :::::
+:::::::
+
+- If swapped Mudkip, swap back to Quilladin.
+
+Exit the peak at the left-most tile and bike straight down without stopping.
+
+
+ Go to the gym.
+
+- Heal to full (unless no significant damage was taken).
+- Teach Swords Dance over Bite (slot 1).
+- Equip the Soft Sand.
+
+Gym puzzle:
+- Right pad
+- Top pad
+- Far left pad
+- Top-most pad
+- Far right pad
+- Bottom pad
+
+:::::trainer[Kindler Andy]
+  :::pokemon[Numel]{info="Heal Confusion using Full Heals and HP as needed" infoColor=gray}
+    - Foul Play x2-3
+  :::
+:::::
+
+:info[**RECOMMEND SAVE**]{color=red}
+:::::trainer[Leader Flannery]
+  :::pokemon[Slugma]{info="Has Flame Body, don't Draining Kiss!" infoColor=gray}
+    - X Special Attack x2
+    - If Slugma Sunny Day, X Special Defense
+    - Hyper Potion after 1st Overheat hit
+    - Fairy Wind x2
+  :::
+  :::pokemon[Torkoal]
+    - Heal to **FULL**
+    - X Special Defense if Sunny Day and you didn't on Slugma
+    - Draining Kiss
+    - Fairy Wind x2
+  :::
+  :::pokemon[Numel]
+    - Draining Kiss
+  :::
+:::::
+
+Leave and say yes to Brendan when he asks if you want to go to Petalburg.
+
+Heal to full.
+
+Inside the gym, always take the right door when given a choice.
+
+:::::trainer[Ace Trainer Mary]
+  :::pokemon[Delcatty]
+    - Fairy Wind x3-4
+  :::
+:::::
+
+Heal if yellow.
+
+:::::trainer[Ace Trainer George]
+  :::pokemon[Linoone]
+    - Fairy Wind x3
+  :::
+:::::
+
+Heal if yellow
+
+:::::trainer[Ace Trainer Berke]
+  :::pokemon[Zangoose]
+    - Fairy Wind x3
+    - Do not teach Torment
+  :::
+:::::
+
+**Heal to full.**
+
+:info[**RECOMMEND SAVE**]{color=red}
+
+:::::::trainer[Leader Norman]
+  :::::pokemon[Slaking]
+    - Spam Foul Play
+
+    ::damage[Slaking's Retaliate at +0 Defense]{source="Chespin" evolution=1 offensive=false movePower=70 level=28 evs=8 opponentLevel=28 opponentStat=94 combatStages=1 stab=true}
+  :::::
+  :::::pokemon[Vigoroth]
+    - Fairy Wind x3
+  :::::
+  :::::pokemon[Slaking]
+    - Spam Fairy Wind
+    - Foul Play if Confused
+    - Teach Mirror Shot over Tackle
+
+
+  :::::
+:::::::
+
+- Heal to full.
+- Teach Strength over Water Gun (slot 3).
+- Teach Surf over Tackle (slot 1).
+
+:::::trainer[Team Aqua Double]
+  - Fairy Wind until Sharpedo Dies
+  - Foul Play Grimer or Tacke if Swaggered :info[_unless Rough Skin would kill_]{color=gray}
+:::::
+
+- Grab Elixir if used both Leppas.
+- Teach Dazzling Gleam over Fairy Wind
+
+:::::trainer[Team Aqua Grunt]{info="Top Grunt, not the bottom Grunt." infoColor=gray}
+  :::pokemon[Grimer]
+    - Mirror Shot (foul play x2 prob better)
+    - Foul Play
+  :::
+:::::
+
+- If you have 2 Persims, can equip here (super optional)
+
+:::::trainer[Team Aqua Grunt]
+  :::pokemon[Carvanha]
+    - Dazzling Gleam
+  :::
+  :::pokemon[Mightyena]
+    - Dazzling Gleam
+    - Do not teach Imprison
+  :::
+:::::
+
+- Heal if in Ice Fang range.
+- Equip a Persim Berry if used or not done before.
+
+:info[**RECOMMEND SAVE**]{color=red}
+
+:::::trainer[Aqua Admin Shelly]
+  :::pokemon[Sharpedo]{info="Faster at 74+ Speed (x / 10+ / 0+)" infoColor=blue}
+    Seed Bomb
+
+    ::damage[Sharpedo's Ice Fang]{source="Chespin" evolultion=1 offensive=false movePower=65 level=35 evs=7 opponentLevel=32 opponentStat=89 effectiveness=2}
+  :::
+:::::
+
+- Heal to full.
+
+:::::trainer[Brendan 3]
+  :::pokemon[Slugma]
+    - Foul Play x2
+  :::
+  :::pokemon[Wailmer]
+    - Foul Play x2
+  :::
+  :::pokemon[Grovyle]
+    - Foul Play
+
+    ::damage[Grovyle's Pursuit]{source="Chespin" evolution=1 offensive=false movePower=40 level=30 evs=7 opponentLevel=33 opponentStat=47 effectiveness=2}
+
+  :::
+  :::pokemon[Wailmer]
+    - Bulldoze
+  :::
+:::::
+
+Run from the first Klefki. After the Klefki cutscenes, menu and head to gym:
+
+:info[**RECOMMEND SAVE**]{color=red}
+
+:::::trainer[Leader Winona]
+  :::pokemon[Swellow]
+    ::damage[+1 Def Swellow's Aerial Ace]{source="Chespin" evolution=2 offensive=false effectiveness=4 combatStages=1 movePower=60 stab=true level=36 evs=7 opponentLevel=33 opponentStat=61}
+    - X Special Attack x2
+    - Dazzling Gleam
+  :::
+  :::pokemon[Altaria]
+    - Dazzling Gleam
+  :::
+  :::pokemon[Skarmory]
+    - Dazzling Gleam
+
+    ::damage[Skarmory's Air Cutter]{source="Chespin" evolution=2 combatStages=0 offensive=false special=true movePower=60 stab=true level=37 evs=0 opponentLevel=33 opponentStat=31 effectiveness=4}
+  :::
+  :::pokemon[Pelipper]
+    - Dazzling Gleam
+    ::damage[+1 Def Pelipper's Aerial Ace]{source="Chespin" evolution=2 offensive=false effectiveness=4 combatStages=1 movePower=60 stab=true level=36 evs=7 opponentLevel=33 opponentStat=38}
+  :::
+:::::
+
+Recommend get extra Persims in bush and use in Pyre.
+
+Get the free heal before surfing to Mt. Pyre.
+
+
+:::::trainer[Team Aqua Grunt]
+  :::pokemon[Grimer]
+    - Mirror Shot
+    - Foul Play (x2)
+  :::
+:::::
+
+:::::trainer[Team Aqua Grunt]
+  :::pokemon[Carvanha]
+    - Dazzling Gleam
+  :::
+  :::pokemon[Mightyena]
+    - Dazzling Gleam
+  :::
+:::::
+
+If in yellow health:
+  - Heal to full.
+
+:::::trainer[Team Aqua Grunt]
+  :::pokemon[Mightyena]
+    - Dazzling Gleam
+  :::
+  :::pokemon[Golbat]
+    - Mirror Shot x2
+  :::
+:::::
+
+:::::::trainer[Aqua Admin Matt]
+  :::::pokemon[Sharpedo]{info="Don't get flinched or frozen nerd :)"}
+    - Dazzling Gleam
+  ::::
+:::::::
+
+- Get tombstone Rare Candy.
+- Fly to Slateport.
+- Heal to full.
+
+### Slateport Shopping.
+> #### Buy (Top):
+> - 4 X Speed (if not bought before)
+> - 2 X Attack (if you didn't get swagger trolled on archie don't buy)
+> - 3 X Defense (vv)
+> - 1 Guard Spec (v)
+> - 3 X Accuracy
+> #### Buy (Botom):
+> - 11 Max Repel (^^)
+> - 11 Hyper Potions (<<v)
+> - MAX Full Restore(vv)
+
+Bike to the Harbor.
+
+:::::trainer[Team Aqua Grunt]
+  :::pokemon[Mightyena]
+    - Dazzling Gleam
+  :::
+:::::
+
+:::::::trainer[Team Aqua Grunt]
+  :::::pokemon[Carvanha]
+      - Dazzling Gleam
+  :::::
+  :::::pokemon[Golbat]
+    - Mirror Shot x2
+  :::::
+:::::::
+
+- Heal to full
+- Leppa Dazzling Gleam (Slot 3)
+
+:::::::trainer[Brendan 4]{info="less pain"}
+  :::::pokemon[Swellow]{info="Faster at 98+ Speed (Lv. 34: x / x / 28+) (Lv. 35: x / x / 21+)" infoColor=blue}
+    - X Special Attack
+    - Dazzling Gleam
+  :::::
+  :::::pokemon[Magcargo]
+    - Dazzling Gleam x2
+    - Do not Teach Play Rough
+  :::::
+  :::::pokemon[Wailord]
+    - Dazzling Gleam
+  :::::
+  :::::pokemon[Sceptile]
+    - Dazzling Gleam
+    - Foul Play if Detect broke Dazzling Gleam chain
+    - Do no teach Magic Room
+  :::::
+:::::::
+
+
+**Might want to save here** 
+
+:::::trainer[Team Aqua Grunt]
+  :::pokemon[Golbat]
+    - Swords Dance
+    - Rock Tomb (If you miss and get hit with Acrobatics you might die!)
+  :::
+:::::
+
+Heal to full and use the Elixir if took damage from Golbat or you did not do so before.
+
+Go down to the puzzle:
+  - Left
+  - Middle
+  - Left
+  - Far Left
+
+Go behind the bed and talk to the tree to get the Master Ball.
+
+Exiting the puzzle:
+  - Middle
+  - Right
+  - Top
+
+:::::trainer[Team Aqua Grunt]
+  :::pokemon[Mightyena]
+    - Swords Dance
+    - Seed Bomb
+  :::
+:::::
+
+
+:::::trainer[Team Aqua Horde]
+  :::pokemon[Poochyena x5]
+    - Bulldoze
+  :::
+:::::
+
+- Heal to full.
+
+
+:::::trainer[Aqua Admin Matt]
+  :::pokemon[Sharpedo]
+    - Seed Bomb
+    - Don't learn Bulk Up
+  :::
+:::::
+
+- Heal to full.
+- Swap Latias and Mudkip so Latias is 2nd
+
+:::::trainer[Liza & Tate]
+  - **Seed Bomb Lunatone first**
+  - X Attack Chestnaught
+  - If going for Mudkip kill (if Chestnaught didn't get Pyschic damage)
+    - Bulldoze w/ Chestnaught
+    - Swap to Mudkip (kill it)
+    - Bring out Castform
+    - Seed Bomb Solrock
+    - Heal Pulse Chestnaught
+  - Else
+    - Seed Bomb Solrock
+    - Heal Pulse Chestnaught
+  
+
+:::::
+
+- Teach Dive to Latias over Heal Pulse (slot 1).
+
+:::::trainer[Team Aqua Grunt]
+  :::pokemon[Mightyena]
+    - If Mudkip Alive:
+      - Swap to Mudkip
+      - Growl until death
+      - Swap back to Chestnaught
+    - Swords Dance
+    - Seed Bomb
+  :::
+  :::pokemon[Muk]
+    - Bulldoze
+  :::
+:::::
+
+- Heal to full if under 75% HP or poisoned.
+
+:::::trainer[Aqua Leader Archie]
+  :::pokemon[Mightyena]
+    - Guard Spec
+    - X Speed
+    - Swords Dance
+    - _If you're afraid of missing:_
+      - X Accuracy
+    - Seed Bomb
+  :::
+  :::pokemon[Muk]
+    - Bulldoze
+  :::
+  :::pokemon[Crobat]
+    - Rock Tomb
+  :::
+  :::pokemon[Mega Sharpedo]
+    - Seed Bomb (or Bulldoze to avoid Super Effective Text, it should be 16/16)
+  :::
+:::::
+
+Catch Kyogre with the Master Ball.
+
+- Heal to Full.
+- Leppa Seed Bomb.
+- Give Persim Berry.
+
+![Ice puzzle momement pt. 1](ice-puzzle-1.png)
+
+![Ice puzzle momement pt. 2](ice-puzzle-2.png)
+
+![Ice puzzle momement pt. 3](ice-puzzle-3.png)
+
+:::::::trainer[Leader Wallace]
+  :::::pokemon[Luvdisc]{info="If male Chestnaught, it will use attract!" infoColor=blue}
+     - Seed Bomb
+  :::::
+  :::::pokemon[Milotic]
+    - Swords Dance
+    - Seed Bomb
+  :::::
+  :::::pokemon[Whiscash]
+    - Seed Bomb
+  :::::
+  :::::pokemon[Sealeo]
+    - Seed Bomb
+  :::::
+  :::::pokemon[Seaking]
+    - Seed Bomb
+  :::::
+:::::::
+
+- Teach Waterfall to Latias over Mist Ball (slot 3).
+- Give Persim to Chestnaught
+- Fly to Route 126.
+
+At the Pokémon Center, deposit Castform, Latias and Kyogre. Keep mudkip dead.
+
+
+:::::trainer[Ace Trainer Hope]
+  :::pokemon[Froslass]
+    - Rock Tomb
+    - Seed Bomb
+  :::
+:::::
+
+:::::trainer[Expert Bryn]
+  :::pokemon[Hitmontop]
+    - Swords Dance x2
+    - Bulldoze
+  :::
+  :::pokemon[Throh]
+    - Seeed Bomb
+:::::
+
+:::::trainer[Ace Trainer Edgar]
+  :::pokemon[Mawile]
+    - Bulldoze x2
+  :::
+:::::
+
+**Get Elixir in case Grudge on Phoebe**
+
+:::::trainer[Export Theodore]
+  :::pokemon[Sawk]{info="Faster at 85+ Speed (16+ / 0+ / 0+)" infoColor=blue}
+    - Swords Dance
+    - Seed Bomb
+  :::
+:::::
+
+**Heal if Yellow HP**
+
+:::::trainer[Wally]
+  :::pokemon[Altaria]
+    - Swords Dance
+    - Rock Tomb (x2 if Cotton Guarded)
+  :::
+  :::pokemon[Delcatty]
+    - Seed Bomb
+  :::
+  :::pokemon[Magneton]{info="Full restore if status on Tri Attack" infoColor=blue}
+    - Seed Bomb
+    - Seed Bomb
+  :::
+  :::pokemon[Roselia]
+    - Rock Tomb
+  :::
+  :::pokemon[Mega Gallade]
+    - Seed Bomb
+  :::
+:::::
+
+- Deposit Mudkip and Withdraw Latias.
+
+:::::::trainer[Elite Four Sidney]
+  :::::pokemon[Mightyena]{info="Get to +4" infoColor=blue}
+    - Swords Dance (get swaggered)
+    - X Speed
+    - Full Heal
+    - Seed Bomb
+  :::::
+  :::::pokemon[Absol]
+    - Bulldoze
+  :::::
+  :::::pokemon[Shiftry]
+    - X Attack (on Fakeout Turn or Rock Tomb if already +6)
+    - Rock Tomb
+  :::::
+  :::::pokemon[Sharpedo]{info="Faster at 105+ Speed without X-Speed (x / 28+ / 9+)" infoColor=blue}
+    - Bulldoze
+  :::::
+  :::::pokemon[Cacturne]
+    - Rock Tomb
+  :::::
+:::::::
+
+- Heal to full.
+- Recommend: Equip Persim
+
+:::::::trainer[Phoebe]
+  :::::pokemon[Dusclops]
+    - Swords Dance
+    - Seed Bomb
+  :::::
+  :::::pokemon[Banette]{info="Extra Swords Dance if turn after Grudge" infoColor=gray}
+    ::damage[Banette's Psychic]{source="Chespin" evolution=2 offensive=false movePower=90 evs=8 stab=false level=54 opponentLevel=51 opponentStat=93 effectiveness=2 special=true}
+    - If Future Sighted:
+      - Heal to full
+      - Take Psychic and Future Sight damage
+      - Seed Bomb
+    - If Cursed:
+      - Swap to Latias
+      - Heal Chestnaught
+      - Swap back to Chestnaught after death
+      - Sword Dance
+      - Seed Bomb
+    - If Confuse Ray'd:
+      - Seed Bomb
+  :::::
+  :::::pokemon[Dusknoir]{info="Heal if Ice Punch Range" infoColor=blue}
+    ::damage[Dusknoir's Ice Punch]{source="Chespin" evolution=2 offensive=false movePower=75 evs=16 stab=false level=54 opponentLevel=53 opponentStat=103 effectiveness=2 special=false}
+    - Swords Dance
+    - Seed Bomb
+    - If no more Seed Bomb PP:
+      - Bulldoze x2
+
+  :::::
+  :::::pokemon[Banette]
+    - Bulldoze
+    - Don't teach Wood Hammer
+  :::::
+  :::::pokemon[Sableye]{info="Fakeout does 10" infoColor=blue}
+    - Bulldoze
+  :::::
+:::::::
+
+- Heal to Full
+
+:::::::trainer[Glacia]
+  :::::pokemon[Glalie]{info="If Grudged Seed Bomb, go to +6 and Bulldoze everything except Walrein." infoColor=gray}
+    ::damage[Glalie's Ice Shard]{source="Chespin" evolution=2 offensive=false movePower=40 evs=16 stab=true level=55 opponentLevel=52 opponentStat=92 effectiveness=2 special=false}
+    - Swords Dance x2
+    - X Speed
+    - If worried about hail Froslass:
+      - X Accuracy
+      - Seed Bomb
+    - Risky (80% chance to hit during hail):
+      - Seed Bomb
+  :::::
+  :::::pokemon[Froslass]
+    - Seed Bomb
+  :::::
+  :::::pokemon[Froslass]
+    - Seed Bomb
+  :::::
+  :::::pokemon[Walrein]
+    - Seed Bomb
+  :::::
+  :::::pokemon[Froslass]
+    - Seed Bomb
+  :::::
+  :::::pokemon[Glalie]
+    - Seed Bomb
+  :::::
+:::::::
+ ::variable{name="smackdown" type="boolean" title="Teach Smack Down over Rock Tomb? Slower but safer." defaultValue=1}
+
+- Heal to full.
+- **Leppa Seed Bomb or Elixir**
+:::if{source="Chespin" condition="$smackdown"} 
+- Teach Smack Down over Rock Tomb (slot 4)
+- Equip Soft Sand (bottom of menu)
+:::
+
+:::::::trainer[Elite Four Drake]
+  :::::pokemon[Altaria]
+    ::damage[Altaria's Aerial Ace]{source="Chespin" evolution=2 offensive=false movePower=60 evs=16 stab=true level=56 opponentLevel=53 opponentStat=92 effectiveness=4 special=false}
+    - Swords Dance
+    :::if{source="Chespin" condition="!$smackdown"} 
+      - If No Cotton Guard:
+        - Rock Tomb
+      - If Cotton Guard:
+        - Swords Dance (x2 if Cotton Guard Twice)
+        - Rock Tomb x2 (Heal if you can't survive Aerial Ace)
+    :::
+    :::if{source="Chespin" condition="$smackdown"} 
+      - If No Cotton Guard:
+        - Smack Down
+      - If Cotton Guard:
+        - Swords Dance (x2 if Cotton Guard Twice)
+        - Smack Down x2 (Heal if you can't survive Aerial Ace)
+    :::
+
+  :::::
+  :::::pokemon[Kingdra]
+    - Seed Bomb
+  :::::
+  :::::pokemon[Flygon]{info="Heal as needed" infoColor=gray}
+    - X Speed
+    - Swords Dance (Skip if more than +2 Attack)
+    - Seed Bomb
+     ::damage[Flygon's Flamethrower]{source="Chespin" evolution=2 offensive=false movePower=90 evs=12 stab=false level=56 opponentLevel=53 opponentStat=94 effectiveness=2 special=true}
+  :::::
+  :::::pokemon[Salamence]{info="Heal before Rock Tombing if scared of miss - If defense dropped from Flygon you dead!" infoColor=gray}
+    :::if{source="Chespin" condition="!$smackdown"} 
+      - Rock Tomb
+    :::
+    :::if{source="Chespin" condition="$smackdown"} 
+      - Smack Down
+    :::
+  :::::
+  :::::pokemon[Flygon]
+    - Seed Bomb
+  :::::
+:::::::
+
+- Heal to Full
+
+:::::::trainer[Champion Steven]
+  :::::pokemon[Skarmory]{info="Heal as needed" infoColor=gray}
+    :::if{source="Chespin" condition="!$smackdown"} 
+      - X Defense x2
+      - Swords Dance x3
+      - Rock Tomb x2
+    :::
+    :::if{source="Chespin" condition="$smackdown"} 
+      - X Defense x2
+      - Swords Dance x2
+      - Smack Down
+      - Bulldoze
+    :::
+
+    ::damage[+2 Def Skarmory's Aerial Ace]{source="Chespin" evolution=2 offensive=false movePower=60 evs=16 stab=true level=58 opponentLevel=57 opponentStat=105 effectiveness=4 special=false combatStages=2}
+  :::::
+  :::::pokemon[Cradily]
+    - Seed Bomb
+  :::::
+  :::::pokemon[Claydol]
+    - Seed Bomb
+  :::::
+  :::::pokemon[Aggron]{info="Iron Tail does 30 max, heal before Rock Tomb if in range" infoColor=gray}
+    :::if{source="Chespin" condition="!$smackdown"} 
+      - Rock Tomb
+      - Bulldoze
+    :::
+    :::if{source="Chespin" condition="$smackdown"} 
+      - Smack Down
+      - Bulldoze
+    :::
+  :::::
+  :::::pokemon[Armaldo]{info="Heal if Bullet Punch Range" infoColor=gray}
+    - Seed Bomb
+  :::::
+  :::::pokemon[Mega Metagross]
+    ::damage[Metagross' Bullet Punch]{source="Chespin" evolution=2 offensive=false movePower=40 stab=true level=60 evs=20 opponentLevel=59 opponentStat=185 effectiveness=1 otherModifier=1.3}
+    ::damage[-1 Def Metagross' Bullet Punch]{source="Chespin" evolution=2 combatStages=-1 offensive=false movePower=40 stab=true level=60 evs=20 opponentLevel=59 opponentStat=185 effectiveness=1 otherModifier=1.3}
+    - Bulldoze
+  :::::
+:::::::
+
